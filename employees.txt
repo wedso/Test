@@ -6,3 +6,4 @@ Marc     -   Developper
 Toby   -   Programmer
 Kelly   -   HR
 Jack    - Finance
+Lilly   - DRH
